@@ -4,6 +4,7 @@ Passionate *Full-Stack Developer* Looking for oportunities
 ## Favorite frameworks
 
 - React
+- Express
 - Rails
 - Django
 
