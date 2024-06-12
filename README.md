@@ -7,6 +7,7 @@ Passionate *Full-Stack Developer* Looking for oportunities
 - Express
 - Rails
 - Django
+- Spring
 
 ## Favorite Tools
 
@@ -14,12 +15,14 @@ Passionate *Full-Stack Developer* Looking for oportunities
 - Git & Github
 - Sass
 - Babel
-- Gulp 
+- Apollo
+- GraphQL
 
 ## Favorite Languages 
 
 - JavaScript
-- Python 
+- Python
+- Java
 
 ## More about me 
 
