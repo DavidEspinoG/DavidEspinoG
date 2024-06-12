@@ -20,6 +20,7 @@ Passionate *Full-Stack Developer* Looking for oportunities
 
 ## Favorite Languages 
 
+- Ruby
 - JavaScript
 - Python
 - Java
